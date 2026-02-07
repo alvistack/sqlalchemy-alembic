@@ -1,0 +1,5 @@
+python-alembic (100:1.18.3-1) UNRELEASED; urgency=medium
+
+  * https://github.com/sqlalchemy/alembic/releases/tag/rel_1_18_3
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Fri, 30 Jan 2026 21:18:25 +0800
