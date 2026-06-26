@@ -7,8 +7,6 @@ requires = ["setuptools>=77.0.3"]
 name = "alembic"
 description = "A database migration tool for SQLAlchemy."
 authors = [{name = "Mike Bayer", email = "mike_mp@zzzcomputing.com"}]
-license = "MIT"
-license-files = ["LICENSE"]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
     "Intended Audience :: Developers",
