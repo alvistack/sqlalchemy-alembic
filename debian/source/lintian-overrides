@@ -1,0 +1,5 @@
+python-alembic source: file-without-copyright-information
+python-alembic source: no-debian-changes
+python-alembic source: source-contains-prebuilt-windows-binary
+python-alembic source: source-is-missing
+python-alembic source: source-package-encodes-python-version

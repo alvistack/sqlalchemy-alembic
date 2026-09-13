@@ -1,0 +1,4 @@
+python3-alembic: copyright-without-copyright-notice
+python3-alembic: initial-upload-closes-no-bugs
+python3-alembic: no-manual-page
+python3-alembic: zero-byte-file-in-doc-directory
